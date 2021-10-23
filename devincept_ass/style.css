@@ -1,0 +1,36 @@
+html{
+    font-size: 50 px;
+
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 2 ;
+    text-align: left;
+    padding: 200px;
+    box-sizing: color #000;
+    background-color: rgb(213, 204, 235)
+    
+}
+h1{
+    text-align: center;
+    box-sizing: border-box;
+    text-decoration: solid;
+    text-shadow: #000;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 10px;
+    box-shadow: #000;
+  
+   
+} 
+figcaption{
+    text-decoration: ivory;
+}
+p{
+    text-align: center;
+}
